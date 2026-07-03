@@ -1,0 +1,4 @@
+function copyUPI(){
+navigator.clipboard.writeText("baraiyakhushal83@okaxis");
+alert("UPI ID Copied");
+}
